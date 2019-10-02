@@ -14,3 +14,12 @@ Close-bosomes friend of the maturing sun<br>
   <li>Pour the water onto the teabag</li>
   <li>Add milk</li>
 </ol>
+
+<h3>
+<p>Things to do today<p/>
+ <ul>
+   <li> Go to my lectures</li>
+   <li> Go to the gym</li>
+   <li> Get my haicut</li>
+   <li> Walk the dog</li>
+  </ul>
