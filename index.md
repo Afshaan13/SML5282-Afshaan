@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 <p>This webiste is about English Langauge, culture and literature.</p>
-<h2>0de to Autumn</h2>
+<h2>ode to Autumn</h2>
 <p>
 Season of mist and mellow fruitfulness<br>
 Close-bosomes friend of the maturing sun<br>
