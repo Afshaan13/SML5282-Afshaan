@@ -24,7 +24,7 @@ Close-bosomes friend of the maturing sun<br>
    <li> Walk the dog</li>
   </ul>
 
-<pMy name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.</p>
+<p>My name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.</p>
 <h4>
   <p>My TO DO list</p>
 <ul>
@@ -37,7 +37,8 @@ Close-bosomes friend of the maturing sun<br>
     <p>My favourite things to do</p>
     <ol>
       <li>Horseriding in the stables</li>
-      <Long walks on the beach</li>
+      <li>Long walks on the beach</li>
       <li>Cooking new and exotic dishes</li>
+      <li>Going to the cinema with my best friends</li>
     </ol>
   
