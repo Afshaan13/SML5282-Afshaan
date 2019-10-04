@@ -23,7 +23,11 @@ Close-bosomes friend of the maturing sun<br>
    <li> Walk the dog</li>
   </ul>
 <hr>
-<p>My name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.</p>
+<p>My name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.
+ </p>
+  <p> 
+    <a href="https://hub.qmplus.qmul.ac.uk/artefact/blog/view/index.php?id=638312">Visit my QMPlus Hub Page</a>
+  </p>
   <hr>
 <h4>
   <p>My TO DO list</p>
