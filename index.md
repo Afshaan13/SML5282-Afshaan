@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 <p>This webiste is about English Langauge, culture and literature.</p>
-<h2>ode to Autumn</h2>
+<h2>0de to Autumn</h2>
 <p>
 Season of mist and mellow fruitfulness<br>
 Close-bosomes friend of the maturing sun<br>
@@ -23,3 +23,21 @@ Close-bosomes friend of the maturing sun<br>
    <li> Get my haicut</li>
    <li> Walk the dog</li>
   </ul>
+
+<pMy name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.</p>
+<h4>
+  <p>My TO DO list</p>
+<ul>
+  <li> Do my homework</li>
+  <li> Make lunch for my family</li>
+  <li>Go out with my friends</li>
+  <li>Tidy my bedroom</li>
+  </ul>
+  <h5>
+    <p>My favourite things to do</p>
+    <ol>
+      <li>Horseriding in the stables</li>
+      <Long walks on the beach</li>
+      <li>Cooking new and exotic dishes</li>
+    </ol>
+  
