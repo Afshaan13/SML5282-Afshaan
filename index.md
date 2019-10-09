@@ -48,6 +48,6 @@ Close-bosomes friend of the maturing sun<br>
     </ol>
   
   <p>
-  <a href="page 2.html">Page 2</a> <br>
-  <a href="page 3.html">Page 3 </a> 
+  <a href="page2.html">Page 2</a> <br>
+  <a href="page3.html">Page 3 </a> 
   </p>
