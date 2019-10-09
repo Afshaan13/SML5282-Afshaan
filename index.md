@@ -10,7 +10,7 @@ Close-bosomes friend of the maturing sun<br>
 <p>How to make a cup of tea</p>
 <ol>
 <li>Boil the water</li>
-<li>Put the teabg in the mug</li>
+<li>Put the teabag in the mug</li>
   <li>Pour the water onto the teabag</li>
   <li>Add milk</li>
 </ol>
