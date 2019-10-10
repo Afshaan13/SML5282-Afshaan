@@ -27,9 +27,8 @@
  
  </table>
 
-<h4> How to say education in Spanish</h4>
-<li lang="es"> Education 
 
+<li lang="es"> Esta información estará disponible en español muy pronto. </li lang="es">
 
 
 
