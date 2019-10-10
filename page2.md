@@ -17,23 +17,18 @@
   
   </dl>
 
-<h3>The pros and cons of education</h3>
+<h3>The pros and cons of Education</h3>
 <table>
 
-<tr><th> PROS </th><th> Cons </th></tr>
+<tr><th> PROS </th><th> CONS </th></tr>
  <tr><td> Helps you get a job </td><td> Sometimes expensive </td></tr>
- <tr><td> Teaches you about the real world </td><td> Time consuming </td></tr>
- <tr><td> Allows interaction with others </td><td> Might be overwhemling </td></tr>
- 
- 
- 
- 
- 
+ <tr><td> Teaches you necessary skills </td><td> Time consuming </td></tr>
+ <tr><td> Allows interaction with others </td><td> Might be overwhelming </td></tr>
  
  </table>
 
-
-
+<h4> How to say education in Spanish</h4>
+<li lang="sp"> Education 
 
 
 
