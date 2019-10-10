@@ -28,7 +28,7 @@
  </table>
 
 <h4> How to say education in Spanish</h4>
-<li lang="sp"> Education 
+<li lang="es"> Education 
 
 
 
