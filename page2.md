@@ -28,7 +28,7 @@
  </table>
 
 
-<li lang="es"> Esta información estará disponible en español muy pronto. </li lang="es">
+<li lang="es"> Esta información estará disponible en español muy pronto. 
 
 
 
