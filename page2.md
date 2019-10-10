@@ -9,13 +9,35 @@
 <p>
  <dl>
   <dt>Literacy</dt>
-  <dd>The ability to read and write</dd>
+  <dd>The ability to read and write.</dd>
   <dt>Numeracy</dt>
-  <dd>The ability to understand and work with numbers</dd>
+  <dd>The ability to understand and work with numbers.</dd>
   <dt>Communication</dt>
-  <dd>The imparting or exchanging of information by speaking, writing, or using some other medium</dd>
+  <dd>The imparting or exchanging of information by speaking, writing, or using some other medium.</dd>
   
   </dl>
+
+<h3>The pros and cons of education</h3>
+<table>
+
+<tr><th> PROS </th><th> Cons </th></tr>
+ <tr><td> Helps you get a job </td><td> Sometimes expensive </td></tr>
+ <tr><td> Teaches you about the real world </td><td> Time consuming </td></tr>
+ <tr><td> Allows interaction with others </td><td> Might be overwhemling </td></tr>
+ 
+ 
+ 
+ 
+ 
+ 
+ </table>
+
+
+
+
+
+
+
 
  <p>
   <a href="index.html">Home</a> <br>
