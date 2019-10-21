@@ -38,7 +38,7 @@
 <div class="row">
   <div class="column">
     <h2>Column 1</h2>
-    <p><img src="https://en.wikipedia.org/wiki/Ice_cream#/media/File:Ice_Cream_dessert_02.jpg" /></p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Helados.jpg" /></p>
   </div>
   <div class="column">
     <h2>Column 2</h2>
