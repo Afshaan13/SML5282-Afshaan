@@ -4,7 +4,7 @@
 <br> All of the following websites are in Spanish to enhance your learning in the langauage. </strong>
 </p>
 <h2>News In Action</h2>
-<p><img src="http://www.exteriores.gob.es/RepresentacionesPermanentes/OTAN/es/Noticias/PublishingImages/noticias.png" alt="This is what news is in the spanish language" /></p>
+
 
  <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
  <hr>
