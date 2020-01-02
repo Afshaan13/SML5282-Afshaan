@@ -7,5 +7,5 @@
 <li>Gain an insight into the common greetings, vocabulary and dialog used within the workplace</li>
 <li>Understand the current affairs within the business field</li>
 <li>Get inspired by famous Spanish business figures</li>
-<li>Have fun experiencing a taste of Spanish worklife through various activies and videos</li>
+<li>Have fun experiencing a glimpse into Spanish worklife through various activies and videos</li>
 </ol>
