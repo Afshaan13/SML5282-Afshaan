@@ -8,13 +8,13 @@
 
  <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
  <hr>
- <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN NEWS site</a>
+ <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN  site</a>
   <hr>
- <a href="https://elpais.com///"> Visit EL PAIS NEWS site</a>
+ <a href="https://elpais.com///"> Visit EL PAIS NEWS </a>
   <hr> 
- <a href="https://https://www.eldiario.es////"> Visit EL DIARIO site</a>
+ <a href="https://https://www.eldiario.es////"> Visit EL DIARIO </a>
    <hr>
- <a href="https://www.elperiodico.com/es////"> Visit EL PERIODICO site</a>
+ <a href="https://www.elperiodico.com/es////"> Visit EL PERIODICO </a>
    <hr>
  
  
