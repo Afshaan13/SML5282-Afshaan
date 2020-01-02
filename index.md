@@ -1,6 +1,6 @@
 <h1>Hola!</h1>
 <p>Hello and welcome to Business for Beginners where together we will explore the business world of Spain!</p>
-<h2>The best way to learn about the world of work!</h2>
+
 <p>Season of mist and mellow fruitfulness<br /> Close-bosomes friend of the maturing sun</p>
 <hr />
 <p>How to make a cup of tea</p>
