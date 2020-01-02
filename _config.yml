@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Business for Beginners  
 description: The best way to learn about the spanish business world!
+github: 
    page2: page2.html
    page3: page3.html
    page4: exercises.html
