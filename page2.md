@@ -14,7 +14,7 @@ In a work setting, especially in the business/financial field, it is important t
   <hr> 
  <a href="https://https://www.eldiario.es////"> visit EL DIARIO site</a>
    <hr>
- <a href="https://www.elperiodico.com/es/////"> visit EL PERIODICO site</a>
+ <a href="https://www.elperiodico.com/es////"> visit EL PERIODICO site</a>
    <hr>
  
  
