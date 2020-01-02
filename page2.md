@@ -8,13 +8,13 @@ In a work setting, especially in the business/financial field, it is important t
 
  <a href="http://www.rtve.es/"> visit RTVE NEWS site</a>
  <hr>
- <a href="http://https://cnnespanol.cnn.com//"> visit CNN SPAIN NEWS site</a>
+ <a href="https://cnnespanol.cnn.com///"> visit CNN SPAIN NEWS site</a>
   <hr>
  <a href="https://elpais.com///"> visit EL PAIS NEWS site</a>
   <hr> 
  <a href="https://https://www.eldiario.es////"> visit EL DIARIO site</a>
    <hr>
- <a href=" https://www.elperiodico.com/es/////"> visit EL PERIODICO site</a>
+ <a href="https://www.elperiodico.com/es/////"> visit EL PERIODICO site</a>
    <hr>
  
  
