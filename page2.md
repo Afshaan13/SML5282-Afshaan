@@ -19,8 +19,9 @@
   https://www.eldiario.es/
    <hr>
   <h7>El PERIODICO</h7>
-  https://www.elperiodico.com/es/
-  
+ 
+ https://www.elperiodico.com/es/
+  <hr>
   
   
 <p><a href="index.html">Home</a><br /><a href="page3.html">Page 3 </a></p>
