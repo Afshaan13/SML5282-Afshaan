@@ -1,6 +1,6 @@
 <h1>Hola!</h1>
 <p>Hello and welcome to Business for Beginners where together we will explore the business world of Spain!</p>
-<p>Learn the basic skills needed in a Spanish workplace with lessons, courses, audio, video and games, including the spanish dialog, phrases, vocabulary, pronunciation, grammar, activities and more...</p>
+<p>Learn the basic skills needed in a Spanish workplace with lessons, audio, video and games, including the spanish dialog, phrases, vocabulary, grammar, activities and more...</p>
 <hr />
 <p>AIMS OF THIS INTERACTIVE LEARNING WEBSITE</p>
 <ol>
