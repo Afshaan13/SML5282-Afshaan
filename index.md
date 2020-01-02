@@ -1,32 +1,7 @@
 <h1>Hola!</h1>
 <p>Hello and welcome to Business for Beginners where together we will explore the business world of Spain!</p>
-
-<p>Season of mist and mellow fruitfulness<br /> Close-bosomes friend of the maturing sun</p>
+<p>Learn the basic skills needed in a Spanish workplace with lessons, courses, audio, video and games, including the spanish dialog, phrases, vocabulary, pronunciation, grammar, activities and more...</p>
 <hr />
-<p>How to make a cup of tea</p>
-<ol>
-<li>Boil the water</li>
-<li>Put the teabag in the mug</li>
-<li>Pour the water onto the teabag</li>
-<li>Add milk</li>
-</ol>
-<p>Things to do today</p>
-<ul>
-<li>Go to my lectures</li>
-<li>Go to the gym</li>
-<li>Get my haicut</li>
-<li>Walk the dog</li>
-</ul>
-<hr />
-<p>My name is Afshaan and I am 19 years old. I go to Queen Mary Univeristy of London and have been studying at this institution for a year. I currently live in central London but I was born in Watford and have lived in the UK my entire life.</p>
-<p><a href="https://hub.qmplus.qmul.ac.uk/artefact/blog/view/index.php?id=638312">Visit my QMPlus Hub Page</a></p>
-<hr />
-<p>My TO DO list</p>
-<ul>
-<li>Do my homework</li>
-<li>Make lunch for my family</li>
-<li>Go out with my friends</li>
-<li>Tidy my bedroom</li>
 </ul>
 <hr />
 <p>My favourite things to do</p>
@@ -36,4 +11,3 @@
 <li>Cooking new and exotic dishes</li>
 <li>Going to the cinema with my best friends</li>
 </ol>
-<p><a href="page2.html">Page 2</a><br /><a href="page3.html">Page 3 </a></p>
