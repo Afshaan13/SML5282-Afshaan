@@ -6,15 +6,15 @@ In a work setting, especially in the business/financial field, it is important t
 <h2>News In Action</h2>
 <p><img src="http://www.exteriores.gob.es/RepresentacionesPermanentes/OTAN/es/Noticias/PublishingImages/noticias.png" alt="This is what news is in the spanish language" /></p>
 
- <a href="http://www.rtve.es/"> visit RTVE NEWS site</a>
+ <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
  <hr>
- <a href="https://cnnespanol.cnn.com///"> visit CNN SPAIN NEWS site</a>
+ <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN NEWS site</a>
   <hr>
- <a href="https://elpais.com///"> visit EL PAIS NEWS site</a>
+ <a href="https://elpais.com///"> Visit EL PAIS NEWS site</a>
   <hr> 
- <a href="https://https://www.eldiario.es////"> visit EL DIARIO site</a>
+ <a href="https://https://www.eldiario.es////"> Visit EL DIARIO site</a>
    <hr>
- <a href="https://www.elperiodico.com/es////"> visit EL PERIODICO site</a>
+ <a href="https://www.elperiodico.com/es////"> Visit EL PERIODICO site</a>
    <hr>
  
  
