@@ -7,7 +7,7 @@
 <img src="https://i0.wp.com/blog.lingodeer.com/wp-content/uploads/2019/08/LingoDeer-spanish-veb-conjugation-vosotros.png?resize=598%2C385&ssl=1">
 <p><strong>Some common regular verbs are: cambiar, escuchar,llamar limpiar, mirar, llamar, mirar, terminar and vivir.</strong></p>
 <hr>
-<p><strong>Some common irregular verbs are:<strong></p>
+<p><strong>Some common irregular verbs are: <strong></p>
  
 <img src="https://i0.wp.com/blog.lingodeer.com/wp-content/uploads/2019/08/LingoDeer-spanish-veb-conjugation-irregulars.png?w=566&ssl=1">
  
