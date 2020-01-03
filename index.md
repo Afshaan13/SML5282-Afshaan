@@ -19,7 +19,7 @@
  <p>
 <a href="https://www.spanishdict.com/////"> CLICK HERE FOR A SPANISH DICTIONARY </a>
   </p>
-
+<hr>
 <p> <strong> ADDITIONAL SPANISH STOCK EXCHANGE WESBITES </strong> </p>
 <p> Keep up to date with Spanish trading markets to develope your business trading knowledge! </p> 
 
