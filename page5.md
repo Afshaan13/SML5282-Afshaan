@@ -4,7 +4,7 @@
  
 <br> All of the following websites are in Spanish to enhance your learning in the langauage. </strong>
 </p>
-
+<br>
 <img src="https://i.ebayimg.com/images/g/xg0AAMXQCndRiL4l/s-l300.jpg">
 
 <h2>News In Action</h2>
