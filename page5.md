@@ -4,7 +4,6 @@
 <br> All of the following websites are in Spanish to enhance your learning in the langauage. </strong>
 </p>
 <h2>News In Action</h2>
-<img src="https://www.iconbunny.com/icons/media/catalog/product/cache/2/thumbnail/600x/1b89f2fc96fc819c2a7e15c7e545e8a9/1/6/160.1-news-icon-iconbunny.jpg" >
 
  <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
  <hr>
