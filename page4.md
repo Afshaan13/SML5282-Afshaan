@@ -1,4 +1,12 @@
 <h1>Greetings</h1>
+
+
+
+<img src="https://www.spanishplayground.net/wp-content/uploads/2017/09/spanish-greetings-game-600.jpeg">
+
+
+
+
 <p><strong>We will now take a look at the common spanish greetings. In a work place it is important to know how to greet your colleagues and how to greet your superiors. It is imperative to know the difference!</strong></p>
 <hr>
 <p>Before we start, here are some definitions:</p>
