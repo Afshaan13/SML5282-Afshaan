@@ -52,9 +52,54 @@
 
 </body>
 
+<hr> 
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Juan Roig</h2>
+   <img src="https://e00-lab-elmundo.uecdn.es/los-mas-ricos/images/portraits/big/juan-roig-alfonso.jpg">
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>His impact on the business environment</h2>
+    <p>Juan Roig Alfonso is a Spanish billionaire businessman and the president of Mercadona, the Spanish supermarket chain. He went to the university of Valencia and was not the brightest student yet was able to build up his supermarket chain, which now runs over 1,400 stores. His success in retail has been due to a risky strategy of competitive pricing and on technological innovations that has led him to become immensely famous and successful as a result. </p>
+  </div>
+</div>
+
+</body>
 
 
 
