@@ -4,30 +4,37 @@
  Study the glossary below and test your memory with the quizzes and excercises!</p> 
  <hr>
  <p><strong> General Business Vocabulary </strong></p>
+ <p>Answering machine:	Contestador automático</p>
  <p> Bear market:	Bolsa bajista </p>
 <p>Bull market:	Bolsa alcista</p>
 <p>Blue-chip stocks:	Valores de primera clase</p>
 <p>Board of directors:	Junta directiva</p>
 <p>Bond:	Bono</p>
+<p>Business card:	Tarjeta de negocios</p>
 <p>Buyer:	Comprador</p>
 <p>Cash market:	Mercado al contado</p>
 <p>Cash on delivery: (COD)	Pago contra entrega</p>
+<p>Chair:	Silla</p>
 <p>Chamber of commerce:	Cámara de comercio</p>
 <p>Commission merchant:	Comisionista</p>
 <p>Common carrier:	Transportista común</p>
+<p>Computer: Computadora</p>
 <p>Consumer goods:	Bienes de consumo</p>
 <p>Debt:	Deuda</p>
 <p>Delivery date:	Fecha de entrega</p>
 <p>Delivery point:	Punto de entrega</p>
+<p>Desk:	Escritorio</p>
 <p>Distributor:	Distribuidor/a</p>
 <p>Due date:	Fecha de vencimiento</p>
 <p>Durable goods:	Bienes duraderos</p>
 <p>Economies of scale: Economías de escala</p>
 <p>Endorse:	Endosar</p>
+<p>Eraser:	Borrador</p>
 <p>Freight forwarder:	Agente expedidor</p>
 <p>Joint partnership:	Sociedad en nombre colectivo</p>
 <p>Joint venture:	Negocio en participación</p>
 <p>Key: element</p>
+<p>Keyboard:	Teclado</p>
 <p>Letter of credit: Carta de crédito</p>
 <p>Lobbyist:	Cabildero</p>
 <p>Management:	Administración, gerencia</p>
@@ -60,6 +67,17 @@
 <p>Work ethic:	Ética laboral</p>
 <p>Yield (interest):	Devengar </p>
 
+
+Mouse	Ratón
+Pen	Lapicero
+Pencil	Lápiz
+Pencil sharpener	Sacapuntas
+Printer	Impresora
+Ruler	Regla
+Scanner	Escáner
+Stapler	Grapadora
+Stationary	Estacionario
+Telephone	Teléfono
 
 <h2> PRACTICE YOUR MEMORY WITH THESE ACTIVITIES</h2>
 
