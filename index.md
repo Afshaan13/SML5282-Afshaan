@@ -1,6 +1,6 @@
 <h1>Hola!</h1>
 <p>Hello and welcome to Business for Beginners where together we will explore the business world of Spain!</p>
-<p>Learn the basic skills needed in a Spanish workplace with lessons, video and games, including the spanish glossary, phrases, vocabulary, grammar, activities and more...</p>
+<p>Learn the basic skills needed in a Spanish workplace with lessons, videos and games, including spanish phrases, vocabulary, grammar, activities, a glossary and more...</p>
 
 <img src="http://blogcdn.unispain.com/wp-content/uploads/2015/04/Business-Practice-in-Spain.jpg">
 
