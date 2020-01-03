@@ -63,14 +63,13 @@
 
 <h2> PRACTICE YOUR MEMORY WITH THESE ACTIVITIES</h2>
 
-<p> <strong> ACTIVITY 1 </p><strong>
-<iframe src="https://h5p.org/h5p/embed/689239" width="1090" height="1035" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<p> <strong> ACTIVITY 1 <strong>
+<iframe src="https://h5p.org/h5p/embed/689239" width="1090" height="1035" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
 
 
-<p> <strong> ACTIVITY 2 </p> <strong>
+<p> <strong> ACTIVITY 2  <strong>
 
-<iframe src="https://h5p.org/h5p/embed/689279" width="1090" height="398" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
-<p>
+<iframe src="https://h5p.org/h5p/embed/689279" width="1090" height="398" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
 
 <h2> Additional videos to learn vocabulary </h2></p>
 <a href="https://www.youtube.com/watch?v=4NFBwYnmArA"> YOUTUBE VIDEO (Office Vocabulary) (IBEX 35) </a>
