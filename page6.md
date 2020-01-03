@@ -33,7 +33,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RetratoMartinVarsavsky.jpg/220px-RetratoMartinVarsavsky.jpg" /></div>
 <div>
 <h2><strong>His impact on the business environment</strong></h2>
-<p>Martín Varsavsky is an entrepreneur based in Spain, who has founded several major companies worldwide including Urban Capital, Medicorp Sciences, Vital, Jazztel, EINSTEINet, Eolia and FON. At the age of 17 he was just a refugee moving to the United States with his immediate family and within a few years became a famous icon for business and international relations. His ambitions were fulfilled in these companies and now has decided to help others, like us, on our business orientated journies. He is now teaching entrepreneurship at Columbia University in New York City.</p>
+<p>Martín Varsavsky is an entrepreneur based in Spain, who has founded several major companies worldwide including Urban Capital, Medicorp Sciences, Vital, Jazztel, EINSTEINet, Eolia and FON. At the age of 17 he was just a refugee moving to the United States with his immediate family and within a few years became a famous icon for business and international relations across the globe. His ambitions were fulfilled in these companies and now has decided to help others, like us, on our business orientated journeys. He is now teaching entrepreneurship at Columbia University in New York City.</p>
 </div>
 </div>
 <p>&nbsp;</p>
