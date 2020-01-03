@@ -38,15 +38,15 @@
 </div>
 <p>&nbsp;</p>
 
-
-
 <h1>Additional reading on business individiuals in Spain.</h1>
-<p><strong><strong> RANKED BUSINESS ENTREPRENEURS</strong></strong></p>
-<hr />
-<p><strong><strong> NEW BUSINESS NEW RULES</strong></strong></p>
-<hr />
-<p><strong><strong> THE FAMOUS PEOPLE</strong></strong></p>
-<hr />
+
+<a href="https://www.ranker.com/list/famous-entrepreneurs-from-spain/reference"> RANKED BUSINESS ENTREPRENEURS </a>
+<a href="https://www.lexington.es/en/blog/young-successful-spanish-entrepreneurs"> NEW BUSINESS NEW RULES </a>
+<a href="https://www.thefamouspeople.com/spanish-business-people.php"> THE FAMOUS PEOPLE </a>
+
+
+
+<hr>
 
   
   <p>
