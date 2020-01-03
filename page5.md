@@ -1,6 +1,8 @@
 <h1>Spanish News</h1>
 <p>
 <strong> In a work setting, especially in the business/financial field, it is important to know the current affairs. Here are 5 important News Reporting wesbites to prepare you for a day in the workplace.
+ 
+<img src="https://i.ebayimg.com/images/g/xg0AAMXQCndRiL4l/s-l300.jpg">
 <br> All of the following websites are in Spanish to enhance your learning in the langauage. </strong>
 </p>
 <h2>News In Action</h2>
