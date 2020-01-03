@@ -1,5 +1,5 @@
 <h1>Dream Big</h1>
-<p><strong> Let's Get inspired!</strong></p>
+<p><strong> Let's Get Inspired!</strong></p>
 <p>There are many famous Spanish entrepreneurs who we can take inspiration from in order to make our own mark in the spanish business world.</p>
 <p>It is also important to be aware of business icons in the workplace, this page and the links below will keep you up to date!</p>
 <p>&nbsp;</p>
