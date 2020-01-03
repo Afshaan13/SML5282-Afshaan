@@ -43,19 +43,28 @@
 <p>Market:	Mercado</p>
 <p>Marketing:	Mercadeo, comercialización</p>
 <p>Mortgage:	Hipoteca</p>
+<p>Mouse: Ratón</p>
 <p>Paperwork: Papeleo</p>
 <p>Partnership:	Sociedad colectiva</p>
+<p>Pen: Lapicero</p>
+<p>Pencil sharpener: Sacapuntas</p>
 <p>Personal income tax:	Impuesto sobre la renta personal</p>
+<p>Printer:	Impresora</p>
 <p>Rate of interest:	Tasa de interés</p>
 <p>Real estate:	Bienes raíces, inmuebles</p>
 <p>Retailer:	Venta al menor</p>
+<p>Ruler: Regla</p>
 <p>Savings:	Ahorros</p>
+<p>Scanner: Escáner</p>
 <p>Shareholder:	Accionista</p>
 <p>Sole proprietorship:	Empresa individual</p>
+<p>Stapler: Grapadora</p>
+<p>Stationary	Estacionario</p>
 <p>Stock market: Bolsa de valores</p>
 <p>Strike:	Huelga, paro</p>
 <p>Take steps or measures:	Hacer gestiones</p>
 <p>Team:	Equipo</p>
+<p>Telephone: Teléfono</p>
 <p>Trademark:	Marca comercial</p>
 <p>Trail balance:	Balance de comprobación</p>
 <p>Underdeveloped:	Subdesarrollado</p>
@@ -67,17 +76,6 @@
 <p>Work ethic:	Ética laboral</p>
 <p>Yield (interest):	Devengar </p>
 
-
-Mouse	Ratón
-Pen	Lapicero
-Pencil	Lápiz
-Pencil sharpener	Sacapuntas
-Printer	Impresora
-Ruler	Regla
-Scanner	Escáner
-Stapler	Grapadora
-Stationary	Estacionario
-Telephone	Teléfono
 
 <h2> PRACTICE YOUR MEMORY WITH THESE ACTIVITIES</h2>
 
