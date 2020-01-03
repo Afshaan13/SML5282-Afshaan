@@ -1,4 +1,4 @@
-<h1>Dialog</h1>
+<h1>Greetings</h1>
 
 <hr>
 <p><a href="index.html">Home</a><br />
