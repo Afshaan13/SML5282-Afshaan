@@ -1,5 +1,5 @@
 <h1>Greetings</h1>
-<p><strong>We will now take a look at the common spanish greetings. In a work place it is important to know how to greet your colleagues and how to greet your superiors. It is important to know the difference!</strong></p>
+<p><strong>We will now take a look at the common spanish greetings. In a work place it is important to know how to greet your colleagues and how to greet your superiors. It is imperative to know the difference!</strong></p>
 <hr>
 <p>Before we start, here are some definitions:</p>
 <p>A formal greeting: A greeting that should be polite, respectful, and considerate, and should adhere to the formal rules of English grammar.</p>
