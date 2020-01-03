@@ -9,3 +9,12 @@
 <li>Get inspired by famous Spanish business figures</li>
 <li>Have fun experiencing a glimpse into Spanish worklife through various activies and videos</li>
 </ol>
+<hr>
+<strong> ADDITIONAL LEARNING WESBITES </strong>
+
+<hr>
+ <a href="https://www.lenguaje.com/herramientasV2/sinonimos_EN.html////"> CLICK HERE FOR A SPANISH THESAURUS </a>
+ <p>
+<a href="https://www.spanishdict.com/////"> CLICK HERE FOR A SPANISH DICTIONARY </a>
+  </p>
+ 
