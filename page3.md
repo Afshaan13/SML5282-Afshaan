@@ -15,12 +15,12 @@
  
 <p><strong>Other common irregular verbs are: Ser, haber, estar, tener, hacer, poner, decir, ir, ver and dar.</strong></p>
 <hr>
-<p> Now that we have understood the basics, let us test our Spanish grammatical knowledge with a quiz!</p>
+<p><strong> Now that we have understood the basics, let us test our Spanish grammatical knowledge with a quiz!</strong></p>
 
 <iframe src="https://h5p.org/h5p/embed/689452" width="1090" height="187" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
-<p>Here is a video to watch on more and more verbs to familiarise with!</p>
+<p><strong>Here is a video to watch on more and more verbs to familiarise with!</strong></p>
 
 <a href="https://www.youtube.com/watch?v=-AV5LSve7Jc"> Basic Spanish verbs </a>
 <hr>
