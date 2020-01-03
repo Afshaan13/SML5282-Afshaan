@@ -96,6 +96,6 @@
 <hr>
 <p><a href="index.html">Home</a><br />
  <a href="page3.html">Grammar</a><br />
-<a href="page4.html">Dialog</a><br />
+<a href="page4.html">Greetings</a><br />
  <a href="page5.html">Spanish News</a><br />
 <a href="page6.html">Dream Big</a></p>
