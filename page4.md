@@ -52,6 +52,10 @@
 <p>
 <a href="https://www.youtube.com/watch?v=H-84u9D3Qpc"> Spanish conversation made simple! </a>
   </p>  
+<hr>
+<strong> Test yourself with these flash cards!</strong>
+
+
 
 <hr>
 <p><a href="index.html">Home</a><br />
