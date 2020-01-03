@@ -5,4 +5,4 @@
 
 <hr>
 <a href="index.html">Home</a> <br>
-<a href="page3.html">Grammar</a> </p>
+<a href="page3.html">Grammar</a> 
