@@ -19,7 +19,7 @@
 <hr>
 <p>Here is a video to watch on more and more verbs to familiarise with!</p>
 
-<a href="https://www.youtube.com/watch?v=-AV5LSve7Jc"> Spanish VERBS! </a>
+<a href="https://www.youtube.com/watch?v=-AV5LSve7Jc"> Basic Spanish verbs </a>
 <hr>
 <p><a href="index.html">Home</a><br />
  <a href="page2.html">Vocabulary</a><br />
