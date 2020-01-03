@@ -19,4 +19,13 @@
  <p>
 <a href="https://www.spanishdict.com/////"> CLICK HERE FOR A SPANISH DICTIONARY </a>
   </p>
- 
+
+<p> <strong> ADDITIONAL SPANISH STOCK EXCHANGE WESBITES </strong> </p>
+<p> Keep up to date with Spanish trading markets to develope your business trading knowledge! </p> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/16th_century_Portuguese_Spanish_trade_routes.png/500px-16th_century_Portuguese_Spanish_trade_routes.png">
+
+ <a href="https://tradingeconomics.com/spain/stock-market"> CLICK HERE FOR SPANISH STOCK MARKET (IBEX 35) </a>
+ <p>
+<a href="http://www.bolsamadrid.es/ing/aspx/Portada/Portada.aspx"> CLICK HERE FOR A BOLSA DE MADRID INVESTMENT MARKET </a>
+  </p>
