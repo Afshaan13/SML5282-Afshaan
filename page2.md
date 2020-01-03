@@ -1,6 +1,6 @@
 <h1>Vocabulary</h1>
 
- <p>It is important to know the basic vocabulary in a work place!
+ <p>It is important to know the basic vocabulary in a work place!<br>
  Study the glossary below and test your memory with the quizzes and excercises!</p> 
 
 <hr>
