@@ -38,11 +38,10 @@
 </div>
 <p>&nbsp;</p>
 
-<h1>Additional reading on business individiuals in Spain.</h1>
-
-<a href="https://www.ranker.com/list/famous-entrepreneurs-from-spain/reference"> RANKED BUSINESS ENTREPRENEURS </a>
-<a href="https://www.lexington.es/en/blog/young-successful-spanish-entrepreneurs"> NEW BUSINESS NEW RULES </a>
-<a href="https://www.thefamouspeople.com/spanish-business-people.php"> THE FAMOUS PEOPLE </a>
+<p><h1>Additional reading on business individiuals in Spain.</h1></p>
+<p><a href="https://www.ranker.com/list/famous-entrepreneurs-from-spain/reference"> RANKED BUSINESS ENTREPRENEURS </a></p>
+<p><a href="https://www.lexington.es/en/blog/young-successful-spanish-entrepreneurs"> NEW BUSINESS NEW RULES </a></p>
+ <p> <a href="https://www.thefamouspeople.com/spanish-business-people.php"> THE FAMOUS PEOPLE </a></p>
 
 
 
