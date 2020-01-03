@@ -10,7 +10,7 @@
  
 <p>Other common irregular verbs are: Ser, haber, estar, tener, hacer, poner, decir, ir, ver and dar.</p>
 <hr>
-<p> Now that we have understood the basics, lets test our grammatical knowledge with a quiz!</p>
+<p> Now that we have understood the basics, let us test our Spanish grammatical knowledge with a quiz!</p>
 
 
 <hr>
