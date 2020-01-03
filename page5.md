@@ -4,6 +4,8 @@
 <br> All of the following websites are in Spanish to enhance your learning in the langauage. </strong>
 </p>
 <h2>News In Action</h2>
+<img src="https://thumbs.dreamstime.com/z/breaking-news-noticias-de-ultima-hora-spanish-breaking-news-english-breaking-news-spanish-131320934.jpg" alt= "Breaking News" >
+
  <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
  <hr>
  <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN  site</a>
