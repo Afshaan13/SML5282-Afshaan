@@ -2,9 +2,10 @@
 <h1>Grammar</h1>
 </p>
 <strong>Here we will recap the basic grammar conjugations, including the most common regular and irregular verbs.</strong>
-<p>The regular verb endings are as follows:</p>
+<hr>
+<p><strong>The regular verb endings are as follows:</strong></p>
 <img src="https://i0.wp.com/blog.lingodeer.com/wp-content/uploads/2019/08/LingoDeer-spanish-veb-conjugation-vosotros.png?resize=598%2C385&ssl=1">
-<p>Some common irregular verbs are:</p>
+<p><strong>Some common irregular verbs are:<strong></p>
 <img src="https://i0.wp.com/blog.lingodeer.com/wp-content/uploads/2019/08/LingoDeer-spanish-veb-conjugation-irregulars.png?w=566&ssl=1">
 <p>Other common irregular verbs are: Ser, haber, estar, tener, hacer, poner, decir, ir, ver and dar.</p>
 
