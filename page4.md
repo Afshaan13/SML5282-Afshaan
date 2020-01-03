@@ -3,7 +3,7 @@
 <hr>
 <p>Before we start, here are some definitions:</p>
 <p>A formal greeting: A greeting that should be polite, respectful, and considerate, and should adhere to the formal rules of English grammar.</p>
-<p>An informal greeting:</p>
+<p>An informal greeting: When greeting another person whom you know, you usually use an informal greeting that does not adhere to the formal rules of English grammar.</p>
 
 <hr>
 <h2>A list of Formal Greetings</h2>
