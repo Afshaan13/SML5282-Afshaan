@@ -1,5 +1,5 @@
 <h1>Dream Big</h1>
-<p> <strong> This page is designed to inspire! </p>
+<strong> This page is designed to inspire! 
  <p> There are many famous Spanish entrepreneurs who we can take inspiration from in order to make our own mark in the spanish business world </p> 
  <p> It is also important to be aware of business icons in the workplace, this page and the links below will keep you up to date!</p> 
 
@@ -46,7 +46,7 @@
  </div>
   <div class="column" style="background-color:#bbb;">
     <h2>His impact on the business environment</h2>
-    <p>ZARA</p>
+    <p>Amancio Ortega is a world-known Spanish billionaire businessman. He is the founder of Inditex fashion group, known best for its chain of Zara clothing stores. Ortega has a net worth of $68.3 billion, categorising him as the second wealthiest person in Europe. His journey started off at only the age of 14, where he dropped out of school due to his father having to work as a railway worker. He therefore mobilised his skills and found a job as a shop hand for a local shirtmaker called Gala and learnt to make clothes by hand. By 1975 he had opened his first Zara store and his chain is now world-renowned.</p>
   </div>
 </div>
 
@@ -62,7 +62,11 @@
 
 <hr>
 <h1> Additional reading on business individiuals in Spain </h1>
-
+<a href="https://www.ranker.com/list/famous-entrepreneurs-from-spain/reference"> RANKED BUSINESS ENTREPRENEURS</a>
+ <hr>
+ <a href="https://www.lexington.es/en/blog/young-successful-spanish-entrepreneurs"> NEW BUSINESS NEW RULES</a>
+  <hr>
+ <a href="https://www.thefamouspeople.com/spanish-business-people.php"> THE FAMOUS PEOPLE</a>
 
 
 <hr>
