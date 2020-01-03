@@ -9,9 +9,9 @@
 
 <h2>News In Action</h2>
 
- <a href="http://www.rtve.es/"> Visit RTVE NEWS site</a>
+ <a href="http://www.rtve.es/"> Visit RTVE NEWS </a>
  <hr>
- <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN  site</a>
+ <a href="https://cnnespanol.cnn.com///"> Visit CNN SPAIN </a>
   <hr>
  <a href="https://elpais.com///"> Visit EL PAIS NEWS </a>
   <hr> 
