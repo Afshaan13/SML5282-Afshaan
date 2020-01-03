@@ -30,6 +30,7 @@
 <p>Economies of scale: Economías de escala</p>
 <p>Endorse:	Endosar</p>
 <p>Eraser:	Borrador</p>
+<p>Fax: Fax</p>
 <p>Freight forwarder:	Agente expedidor</p>
 <p>Joint partnership:	Sociedad en nombre colectivo</p>
 <p>Joint venture:	Negocio en participación</p>
@@ -87,7 +88,7 @@
 
 <iframe src="https://h5p.org/h5p/embed/689279" width="1090" height="398" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
 
-<h2> Additional videos to learn vocabulary </h2></p>
+<h2> Additional videos to learn vocabulary </h2>
 <a href="https://www.youtube.com/watch?v=4NFBwYnmArA"> YOUTUBE VIDEO (Office Vocabulary) </a>
  <p>
 <a href="https://www.youtube.com/watch?v=yS1v4h2B7KY"> YOUTUBE VIDEO (Business Vocabulary) </a>
