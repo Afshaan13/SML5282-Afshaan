@@ -3,12 +3,12 @@
  <p>It is important to know the basic vocabulary in a work place!<br>
  Study the glossary below and test your memory with the quizzes and excercises!</p> 
  <hr>
- <strong> General Business Vocabulary </strong>
+ <p><strong> General Business Vocabulary </strong></p>
  <p> Bear market:	Bolsa bajista </p>
 <p>Bull market:	Bolsa alcista</p>
 <p>Blue-chip stocks:	Valores de primera clase</p>
-Board of directors:	Junta directiva
-Bond:	Bono
+<p>Board of directors:	Junta directiva</p>
+<p>Bond:	Bono</p>
 Buyer:	Comprador/a
 Cash market:	Mercado al contado
 Cash on delivery: (COD)	Pago contra entrega
