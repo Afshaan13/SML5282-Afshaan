@@ -4,39 +4,20 @@
  <p> It is also important to be aware of business icons in the workplace, this page and the links below will keep you up to date!</p> 
 
 <style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two equal columns that floats next to each other */
-
-.column {
+* {box-sizing: border-box;}/* Create two equal columns that floats next to each other */.column {
   float: left;
   width: 50%;
-  padding: 10px;
-}
+  padding: 10px;}
 
-/* Border around the container */
-
-.row {
-   border: 1px solid black;
-}
+/* Border around the container */.row {border: 1px solid black;}
 
 /* Clear floats after the columns */
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+.row:after {content: "";display: table;clear: both;}
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
 
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
+@media screen and (max-width: 600px) {.column {width: 100%;}}
 </style>
 
 <div class="row">
