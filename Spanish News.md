@@ -10,12 +10,13 @@
   <hr>
  <a href="https://elpais.com///"> Visit EL PAIS NEWS </a>
   <hr> 
- <a href="https://https://www.eldiario.es////"> Visit EL DIARIO </a>
+ <a href="https://www.eldiario.es/"> Visit EL DIARIO </a>
    <hr>
  <a href="https://www.elperiodico.com/es////"> Visit EL PERIODICO </a>
    <hr>
  
  
-<p><a href="index.html">Home</a><br /><a href="page3.html">Page 3 </a></p>
-</li>
-</ul>
+<p><a href="index.html">Home</a><br />
+ <a href="page2.html">Page 2</a><br />
+ <a href="page3.html">Page 3 </a></p>
+
