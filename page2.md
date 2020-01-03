@@ -4,9 +4,9 @@
  Study the glossary below and test your memory with the quizzes and excercises!</p> 
  <hr>
  <strong> General Business Vocabulary </strong>
- <p> Bear market	Bolsa bajista
-Bull market:	Bolsa alcista
-Blue-chip stocks:	Valores de primera clase
+ <p> Bear market:	Bolsa bajista </p>
+<p>Bull market:	Bolsa alcista</p>
+<p>Blue-chip stocks:	Valores de primera clase</p>
 Board of directors:	Junta directiva
 Bond:	Bono
 Buyer:	Comprador/a
